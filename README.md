@@ -13,7 +13,8 @@
 - ⚔️ I backport and maintain **World of Warcraft addons** for **WotLK 3.3.5a**
 - 🧙 Main weapon: **Lua** and the **WoW API**
 - 🛠️ I take modern addon versions and make them run on legacy clients
-- 📜 Currently maintaining: **TradeSkillMaster**, **Cell**, **ElvUI**, **iTargetingFrames** and **AwesomeWotLK**
+- 📜 Currently maintaining: **TradeSkillMaster**, **Postal**, **KiwiFarm**, **Cell**, **ElvUI**, **iTargetingFrames** and **AwesomeWotLK**
+- 🤖 Also running the **UwU Logs Discord ladder bot**
 
 ## 🧰 Tech Stack
 
@@ -36,6 +37,9 @@
 | Project | Description | Tech |
 | --- | --- | --- |
 | 🏦 [**TradeSkillMaster 3.3.5 backport**](https://github.com/Keoo888/TradeSkillMaster-3.3.5-backport) | TSM v4.14.66 for WotLK — auction house scanning, crafting, mailing, groups & more | `Lua` |
+| 📬 [**Postal 3.3.5 backport**](https://github.com/Keoo888/Postal-3.3.5-backport) | Enhanced mailbox: OpenAll, Express, QuickAttach, BlackBook & more | `Lua` |
+| 💰 [**KiwiFarm 3.3.5 backport**](https://github.com/Keoo888/KiwiFarm-3.3.5-backport) | Gold & loot tracker with instance-reset timer | `Lua` |
+| 🤖 [**UwU Logs Discord Ladder Bot**](https://github.com/Keoo888/uwu-logs.xyz-discord-ladder-bot) | Guild ladder in Discord powered by UwU Logs ratings | `Python` |
 | 🧩 [**Cell 3.3.5 backport**](https://github.com/Keoo888/Cell-3.3.5-backport) | Cell r277 raid frames, rebuilt for WotLK 3.3.5a | `Lua` |
 | 🐍 [**Cell for Sirus**](https://github.com/Keoo888/Cell-Sirus) | Cell r277 build for the Sirus client | `Lua` |
 | 🎨 [**ElvUI 3.3.5 backport**](https://github.com/Keoo888/elvui) | ElvUI 6.09 for WotLK 3.3.5a | `Lua` |
