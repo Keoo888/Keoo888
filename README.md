@@ -42,7 +42,7 @@
 | 🤖 [**UwU Logs Discord Ladder Bot**](https://github.com/Keoo888/uwu-logs.xyz-discord-ladder-bot) | Guild ladder in Discord powered by UwU Logs ratings | `Python` |
 | 🧩 [**Cell 3.3.5 backport**](https://github.com/Keoo888/Cell-3.3.5-backport) | Cell r277 raid frames, rebuilt for WotLK 3.3.5a | `Lua` |
 | 🐍 [**Cell for Sirus**](https://github.com/Keoo888/Cell-Sirus) | Cell r277 build for the Sirus client | `Lua` |
-| 🎨 [**ElvUI 3.3.5 backport**](https://github.com/Keoo888/elvui) | ElvUI 6.09 for WotLK 3.3.5a | `Lua` |
+| 🎨 [**ElvUI 3.3.5 backport**](https://github.com/Keoo888/ElvUI) | ElvUI 6.09 for WotLK 3.3.5a | `Lua` |
 | 🎯 [**iTargetingFrames**](https://github.com/Keoo888/iTargetingFrames_warmane) | Targeting frames and nameplate addons for Warmane | `Lua` |
 | ⚙️ [**AwesomeWotLK**](https://github.com/Keoo888/awesome_wotlk) | Sources for AwesomeWotlkLib, the patcher and the addons that use it | `C++` / `Lua` |
 
