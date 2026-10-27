@@ -15,21 +15,25 @@
 - 🛠️ I take modern addon versions and make them run on legacy clients
 - 📜 Currently maintaining: **TradeSkillMaster**, **Postal**, **KiwiFarm**, **Cell**, **ElvUI**, **iTargetingFrames** and **AwesomeWotLK**
 
-## 🧰 Tech Stack
+<h2 align="center">🧰 Tech Stack</h2>
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=69ccf0)
-![WoW API](https://img.shields.io/badge/WoW%20API%203.3.5a-16223a?style=for-the-badge&logo=battledotnet&logoColor=69ccf0)
-![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=69ccf0)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=69ccf0)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=69ccf0)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=codecrafters&logoColor=69ccf0)
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&amp;logo=lua&amp;logoColor=69ccf0" alt="Lua">
+  <img src="https://img.shields.io/badge/WoW%20API%203.3.5a-16223a?style=for-the-badge&amp;logo=battledotnet&amp;logoColor=69ccf0" alt="WoW API">
+  <img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=69ccf0" alt="C++">
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&amp;logo=git&amp;logoColor=69ccf0" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=69ccf0" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&amp;logo=codecrafters&amp;logoColor=69ccf0" alt="VS Code">
+</p>
 
-**AI / LLM Tools**
+<p align="center"><b>AI / LLM Tools</b></p>
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=69ccf0)
-![Claude](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=69ccf0)
-![Codex](https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=69ccf0)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0d1117?style=for-the-badge&logo=deepseek&logoColor=69ccf0)
+<p align="center">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&amp;logo=openai&amp;logoColor=69ccf0" alt="Prompt Engineering">
+  <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&amp;logo=claude&amp;logoColor=69ccf0" alt="Claude">
+  <img src="https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&amp;logo=openai&amp;logoColor=69ccf0" alt="Codex">
+  <img src="https://img.shields.io/badge/DeepSeek-0d1117?style=for-the-badge&amp;logo=deepseek&amp;logoColor=69ccf0" alt="DeepSeek">
+</p>
 
 ## ⚒️ Featured Projects
 
@@ -44,11 +48,13 @@
 | 🎯 [**iTargetingFrames**](https://github.com/Keoo888/iTargetingFrames_warmane) | Targeting frames and nameplate addons for Warmane | `Lua` |
 | ⚙️ [**AwesomeWotLK**](https://github.com/Keoo888/awesome_wotlk) | Sources for AwesomeWotlkLib, the patcher and the addons that use it | `C++` / `Lua` |
 
-## 📊 Stats
+<h2 align="center">📊 Stats</h2>
 
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keoo888&theme=tokyonight)](https://github.com/Keoo888)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keoo888&theme=tokyonight)](https://github.com/Keoo888)
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keoo888&theme=tokyonight)](https://github.com/Keoo888)
+<p align="center">
+  <a href="https://github.com/Keoo888"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keoo888&amp;theme=tokyonight" alt="GitHub Stats"></a>
+  <a href="https://github.com/Keoo888"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keoo888&amp;theme=tokyonight" alt="Top Languages"></a>
+  <a href="https://github.com/Keoo888"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keoo888&amp;theme=tokyonight" alt="Profile Details"></a>
+</p>
 
 ## 📫 Contact
 
@@ -58,5 +64,10 @@
 
 ---
 
-[![Profile views](https://komarev.com/ghpvc/?username=Keoo888&color=69ccf0&style=flat-square&label=Profile+Views)](https://github.com/Keoo888)
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,50:16223a,100:0d1117&height=120&section=footer)](https://github.com/Keoo888)
+<p align="center">
+  <a href="https://github.com/Keoo888"><img src="https://komarev.com/ghpvc/?username=Keoo888&amp;color=69ccf0&amp;style=flat-square&amp;label=Profile+Views" alt="Profile views"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Keoo888"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2f81f7,50:16223a,100:0d1117&amp;height=120&amp;section=footer" alt="Footer"></a>
+</p>
